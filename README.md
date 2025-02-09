@@ -30,4 +30,5 @@ This is a tribute page dedicated to the famous English playwright, William Shake
 ## Acknowledgements
 
 This page was created as part of a project for Patika.
-![ss3](https://github.com/user-attachments/assets/e19c7e2a-4979-44f1-a916-cb57c4c6de13)
+
+![ss3](https://github.com/user-attachments/assets/96555dc5-f667-45bd-8830-33a9dcaf612d)
